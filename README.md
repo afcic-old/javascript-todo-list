@@ -1,2 +1,3 @@
 # Javascript-todo-list
-Todo list based on the DevEd's tutorial 
+This is a little to-do list project I did following Dev Ed's tutorial.
+
